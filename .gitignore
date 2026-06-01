@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Editor
+.vscode/
+
+# 常用的其他忽略项（按需保留）
+.env
+.env.local
+dist/
+build/
+*.log
+npm-debug.log*
